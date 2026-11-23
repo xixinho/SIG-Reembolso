@@ -12,3 +12,10 @@ class StatusDespesa(models.TextChoices):
     APROVADA = "APROVADA", "Aprovada"
     REJEITADA = "REJEITADA", "Rejeitada"
     LIQUIDADA = "LIQUIDADA", "Liquidada"
+    CANCELADA = "CANCELADA", "Cancelada"
+
+
+class Perfil(models.TextChoices):
+    COORDENADOR = "COORDENADOR", "Coordenador"
+    TESOURARIA = "TESOURARIA", "Tesouraria"
+    ADMINISTRADOR = "ADMINISTRADOR", "Administrador"

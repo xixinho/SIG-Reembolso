@@ -1,0 +1,17 @@
+[
+  {"model": "orcamento.coordenacao", "pk": 1, "fields": {"nome": "Alimentação / Cozinha Central", "teto": "74923.20"}},
+  {"model": "orcamento.coordenacao", "pk": 2, "fields": {"nome": "Decoração e Ambientação", "teto": "24295.15"}},
+  {"model": "orcamento.coordenacao", "pk": 3, "fields": {"nome": "Transporte e Logística", "teto": "48743.73"}},
+  {"model": "orcamento.coordenacao", "pk": 4, "fields": {"nome": "Infraestrutura e Campo", "teto": "16390.00"}},
+  {"model": "orcamento.coordenacao", "pk": 5, "fields": {"nome": "Atividades e Jogos (Ramos)", "teto": "20570.00"}},
+  {"model": "orcamento.coordenacao", "pk": 6, "fields": {"nome": "Logística de Materiais (Almoxarifado)", "teto": "3300.00"}},
+  {"model": "orcamento.coordenacao", "pk": 7, "fields": {"nome": "Sustentabilidade e Resíduos", "teto": "3300.00"}},
+  {"model": "orcamento.coordenacao", "pk": 8, "fields": {"nome": "Saúde e Bem-Estar (Ambulatório)", "teto": "2578.10"}},
+  {"model": "orcamento.coordenacao", "pk": 9, "fields": {"nome": "Divulgação e Mídias", "teto": "220.00"}},
+  {"model": "orcamento.coordenacao", "pk": 10, "fields": {"nome": "Captação de Recursos", "teto": "0.00"}},
+  {"model": "orcamento.coordenacao", "pk": 11, "fields": {"nome": "Financeiro / Tesouraria", "teto": "0.00"}},
+  {"model": "orcamento.coordenacao", "pk": 12, "fields": {"nome": "Coordenação Geral", "teto": "0.00"}},
+  {"model": "orcamento.coordenacao", "pk": 13, "fields": {"nome": "Inscrições e Secretaria", "teto": "0.00"}},
+  {"model": "orcamento.coordenacao", "pk": 14, "fields": {"nome": "Música e Animação", "teto": "0.00"}},
+  {"model": "orcamento.coordenacao", "pk": 15, "fields": {"nome": "Som e Iluminação", "teto": "0.00"}}
+]
